@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c80f6bfa-f419-450f-9ec7-513c2ca78739" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_createFlow.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/lodash/_createFlow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateProduct.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mutations/CreateProduct.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding>
+                <marker date="1524172431000" expanded="true" signature="63:444" ph="mutation...{&#10;        createProduct(input: {&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }) {&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }&#10;    }" />
+                <marker date="1524172431000" expanded="true" signature="72:85" ph="createProduct...createProduct" />
+                <marker date="1524172431000" expanded="true" signature="85:205" ph="(...)" />
+                <marker date="1524172431000" expanded="true" signature="100:102" ph="ID...ID" />
+                <marker date="1524172431000" expanded="true" signature="119:125" ph="String...String" />
+                <marker date="1524172431000" expanded="true" signature="149:157" ph="[...]" />
+                <marker date="1524172431000" expanded="true" signature="150:156" ph="String...String" />
+                <marker date="1524172431000" expanded="true" signature="181:190" ph="[...]" />
+                <marker date="1524172431000" expanded="true" signature="182:188" ph="String...String" />
+                <marker date="1524172431000" expanded="true" signature="206:444" ph="{...}" />
+                <marker date="1524172431000" expanded="true" signature="216:229" ph="createProduct...createProduct" />
+                <marker date="1524172431000" expanded="true" signature="216:438" ph="createProduct...{&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }" />
+                <marker date="1524172431000" expanded="true" signature="229:334" ph="(...)" />
+                <marker date="1524172431000" expanded="true" signature="230:235" ph="input...input" />
+                <marker date="1524172431000" expanded="true" signature="230:333" ph="input...{&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }" />
+                <marker date="1524172431000" expanded="true" signature="237:333" ph="{...}" />
+                <marker date="1524172431000" expanded="true" signature="251:253" ph="id...id" />
+                <marker date="1524172431000" expanded="true" signature="260:264" ph="name...name" />
+                <marker date="1524172431000" expanded="true" signature="273:284" ph="ingredients...ingredients" />
+                <marker date="1524172431000" expanded="true" signature="300:310" ph="directions...directions" />
+                <marker date="1524172431000" expanded="true" signature="335:438" ph="{...}" />
+                <marker date="1524172431000" expanded="true" signature="349:351" ph="id...id" />
+                <marker date="1524172431000" expanded="true" signature="364:368" ph="name...name" />
+                <marker date="1524172431000" expanded="true" signature="381:392" ph="ingredients...ingredients" />
+                <marker date="1524172431000" expanded="true" signature="405:415" ph="directions...directions" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphql.schema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphql.config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphql.config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppSync.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Applications/AppSync.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListProducts.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+                <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+                <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+                <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+                <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+                <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+                <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+                <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+                <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+                <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+                <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+                <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+                <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+                <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+                <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/appsync.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Queries/ListProducts.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$USER_HOME$/Applications/AppSync.js" />
+        <option value="$PROJECT_DIR$/src/Mutations/CreateProduct.jsx" />
+        <option value="$PROJECT_DIR$/src/Queries/ListProducts.jsx" />
+        <option value="$PROJECT_DIR$/src/App.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/lodash/_createFlow.js" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c80f6bfa-f419-450f-9ec7-513c2ca78739" name="Default" comment="" />
+      <created>1524107264964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524107264964</updated>
+      <workItem from="1524107266665" duration="4582000" />
+      <workItem from="1524161433930" duration="179000" />
+      <workItem from="1524161617697" duration="6770000" />
+      <workItem from="1524170963908" duration="3000" />
+      <workItem from="1524170994908" duration="3000" />
+      <workItem from="1524171037436" duration="2213000" />
+      <workItem from="1524174542705" duration="70000" />
+      <workItem from="1524174886732" duration="2393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16213000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mutations/CreateProduct.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1524172431000" expanded="true" signature="63:444" ph="mutation...{&#10;        createProduct(input: {&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }) {&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }&#10;    }" />
+            <marker date="1524172431000" expanded="true" signature="72:85" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="85:205" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="100:102" ph="ID...ID" />
+            <marker date="1524172431000" expanded="true" signature="119:125" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="149:157" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="150:156" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="181:190" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="182:188" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="206:444" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="216:229" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="216:438" ph="createProduct...{&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="229:334" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="230:235" ph="input...input" />
+            <marker date="1524172431000" expanded="true" signature="230:333" ph="input...{&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="237:333" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="251:253" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="260:264" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="273:284" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="300:310" ph="directions...directions" />
+            <marker date="1524172431000" expanded="true" signature="335:438" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="349:351" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="364:368" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="381:392" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="405:415" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mutations/CreateProduct.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1524172431000" expanded="true" signature="63:444" ph="mutation...{&#10;        createProduct(input: {&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }) {&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }&#10;    }" />
+            <marker date="1524172431000" expanded="true" signature="72:85" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="85:205" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="100:102" ph="ID...ID" />
+            <marker date="1524172431000" expanded="true" signature="119:125" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="149:157" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="150:156" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="181:190" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="182:188" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="206:444" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="216:229" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="216:438" ph="createProduct...{&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="229:334" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="230:235" ph="input...input" />
+            <marker date="1524172431000" expanded="true" signature="230:333" ph="input...{&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="237:333" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="251:253" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="260:264" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="273:284" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="300:310" ph="directions...directions" />
+            <marker date="1524172431000" expanded="true" signature="335:438" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="349:351" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="364:368" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="381:392" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="405:415" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mutations/CreateProduct.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1524172431000" expanded="true" signature="63:444" ph="mutation...{&#10;        createProduct(input: {&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }) {&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }&#10;    }" />
+            <marker date="1524172431000" expanded="true" signature="72:85" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="85:205" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="100:102" ph="ID...ID" />
+            <marker date="1524172431000" expanded="true" signature="119:125" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="149:157" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="150:156" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="181:190" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="182:188" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="206:444" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="216:229" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="216:438" ph="createProduct...{&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="229:334" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="230:235" ph="input...input" />
+            <marker date="1524172431000" expanded="true" signature="230:333" ph="input...{&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="237:333" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="251:253" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="260:264" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="273:284" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="300:310" ph="directions...directions" />
+            <marker date="1524172431000" expanded="true" signature="335:438" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="349:351" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="364:368" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="381:392" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="405:415" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/appsync.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/appsync.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/appsync.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/AppSync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mutations/CreateProduct.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1524172431000" expanded="true" signature="63:444" ph="mutation...{&#10;        createProduct(input: {&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }) {&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }&#10;    }" />
+            <marker date="1524172431000" expanded="true" signature="72:85" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="85:205" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="100:102" ph="ID...ID" />
+            <marker date="1524172431000" expanded="true" signature="119:125" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="149:157" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="150:156" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="181:190" ph="[...]" />
+            <marker date="1524172431000" expanded="true" signature="182:188" ph="String...String" />
+            <marker date="1524172431000" expanded="true" signature="206:444" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="216:229" ph="createProduct...createProduct" />
+            <marker date="1524172431000" expanded="true" signature="216:438" ph="createProduct...{&#10;            id&#10;            name&#10;            ingredients&#10;            directions&#10;            &#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="229:334" ph="(...)" />
+            <marker date="1524172431000" expanded="true" signature="230:235" ph="input...input" />
+            <marker date="1524172431000" expanded="true" signature="230:333" ph="input...{&#10;            id: $id, name: $name, ingredients: $ingredients, directions: $directions&#10;        }" />
+            <marker date="1524172431000" expanded="true" signature="237:333" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="251:253" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="260:264" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="273:284" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="300:310" ph="directions...directions" />
+            <marker date="1524172431000" expanded="true" signature="335:438" ph="{...}" />
+            <marker date="1524172431000" expanded="true" signature="349:351" ph="id...id" />
+            <marker date="1524172431000" expanded="true" signature="364:368" ph="name...name" />
+            <marker date="1524172431000" expanded="true" signature="381:392" ph="ingredients...ingredients" />
+            <marker date="1524172431000" expanded="true" signature="405:415" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/lodash/_createFlow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ListProducts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1524176823000" expanded="true" signature="63:247" ph="query...{&#10;        listProduct{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }&#10;    }" />
+            <marker date="1524176823000" expanded="true" signature="69:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="70:80" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="80:247" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="90:102" ph="listProducts...listProducts" />
+            <marker date="1524176823000" expanded="true" signature="90:241" ph="listProducts...{&#10;            items{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }&#10;        }" />
+            <marker date="1524176823000" expanded="true" signature="91:101" ph="listProduct...listProduct" />
+            <marker date="1524176823000" expanded="true" signature="102:241" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="116:121" ph="items...items" />
+            <marker date="1524176823000" expanded="true" signature="116:231" ph="items...{&#10;                id&#10;                name&#10;                ingredients&#10;                directions&#10;            }" />
+            <marker date="1524176823000" expanded="true" signature="121:231" ph="{...}" />
+            <marker date="1524176823000" expanded="true" signature="139:141" ph="id...id" />
+            <marker date="1524176823000" expanded="true" signature="158:162" ph="name...name" />
+            <marker date="1524176823000" expanded="true" signature="179:190" ph="ingredients...ingredients" />
+            <marker date="1524176823000" expanded="true" signature="207:217" ph="directions...directions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
