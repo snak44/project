@@ -4,12 +4,12 @@ import './App.css';
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import {  graphql} from 'react-apollo'
-import ListProducts from './Queries/ListProducts'
-import Sauce from "./img/sauce.png"
+import ListProducts from '../Queries/ListProducts'
+import Sauce from "../img/sauce.png"
 import {Button} from 'reactstrap';
-import Dic from "./img/dic.png"
-import Garlic2 from "./img/garlic2.png"
-import Mush from "./img/mush.png"
+import Dic from "../img/dic.png"
+import Garlic2 from "../img/garlic2.png"
+import Mush from "../img/mush.png"
 
 const sauce = {
     id: 1,
@@ -41,6 +41,10 @@ const removeAll = () => {
 
 };
 
+const removeItemFromCart=() => {
+    cart = [];
+    console.log(cart)
+}
 
 
 class App extends Component {
@@ -92,15 +96,19 @@ class App extends Component {
     render() {
       console.log('props:', this.props);
     return (
-      <div className="pages">
+      <div className="me">
 
           {this.props.products.map((product) => {
-              console.log('HERE: ', product)
+              console.log('HERE: ', product);
               return <div key={product.id}>
 
                   <h3>{product.name}</h3>
-                  <img src={require('./img/' + product.imgName)} alt=""/>
+                  <img src={require('../img/' + product.imgName)} alt=""/>
                   <Button onClick={e=>addToCart(product)}  color="secondary" size="sm">Add to cart
+                  </Button>
+                  <Button onClick={e=>removeAll(1)} color="secondary" size="sm">Remove all
+                  </Button>
+                  <Button onClick={e=>removeItemFromCart(1)} color="secondary" size="sm">Remove all
                   </Button>
                   <h2>{product.size}</h2>
                   <h1>${product.price}</h1>
@@ -108,7 +116,7 @@ class App extends Component {
                   <p>{product.details}</p>
                   <h4>ingredients</h4>
                   <p>{product.ingredients}</p>
-                  <img src={require('./img/' + product.ingredientsImg)} alt=""/>
+                  <img src={require('../img/' + product.ingredientsImg)} alt=""/>
 
 
 
@@ -138,24 +146,6 @@ class App extends Component {
           <h4>Directions</h4>
           <p>For best results refrigerate after opening.</p>
 
-          <h1>You may also like</h1>
-          <hr />
-          <h3>(Chef Naks Garlic Mash!) </h3>
-          <img className="Garlic2" src={Garlic2} alt={Garlic2}/><br />
-          <div className="button2">
-              <Button onClick={e=>addToCart(garlic)}color="secondary" size="sm">Add to cart
-              </Button>
-
-          </div>
-          <div>
-              <h3>(Chef Naks Mushroom Mash!)</h3>
-              <img className="Mush" src={Mush} alt={Mush}/> <br />
-              <Button onClick={e=>addToCart(mushroom)} color="secondary" size="sm">Add to cart
-              </Button>
-              <Button onClick={e=>removeAll(1)} color="secondary" size="sm">Remove all
-              </Button>
-
-          </div>
 
 
 

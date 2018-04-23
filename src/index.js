@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-
+//import App from './App';
+import Main from './myApp/00-main'
 
 import Client from 'aws-appsync'
 import { Rehydrated } from 'aws-appsync-react'
@@ -22,7 +22,7 @@ const client = new Client({
 const WithProvider = () => (
     <Provider client={client}>
     <Rehydrated>
-        <App />
+        <Main />
     </Rehydrated>
     </Provider>
 );

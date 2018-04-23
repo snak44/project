@@ -1,13 +1,17 @@
 import graphql from 'graphql-tag'
 
 export default graphql`
-    query listProduct{
-        listProducts{
+    query listSauces{
+        listSauces{
             items{
                 id
                 name
+                price
+                size
+                details
                 ingredients
-                directions
+                imgName
+                ingredientsImg 
             }
         }
     }
