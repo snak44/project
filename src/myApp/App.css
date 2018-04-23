@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+.pages {
+  text-align: left;
 }
 
 .App-logo {
@@ -25,4 +25,22 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+.sauce{
+  width: 125px;
+}
+button{
+  width: 100px;
+  height: 35px;
+  color: black;
+  background-color: orange;
+}
+
+.Mush{
+  width: 100px;
+}
+
+.Garlic2{
+  width: 100px;
+
 }
