@@ -11,7 +11,8 @@ export default graphql`
                 details
                 ingredients
                 imgName
-                ingredientsImg 
+                ingredientsImg
+                
             }
         }
     }

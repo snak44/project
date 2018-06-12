@@ -11,14 +11,15 @@ body{
 
 
 
-.sauce{
-
+.Sauce{
+text-align: right;
 }
 button{
-  width: 100px;
+  width: 75px;
   height: 35px;
   color: black;
-  background-color: orange;
+  background-color: lightskyblue;
+  border: 1px solid black;
 }
 
 .Mush{
@@ -29,23 +30,27 @@ button{
 
 
 }
-.Pages {
-  background-image: url("../img/Veg.png");
-  background-size: cover;
+.john{
 
+
+}
+.Pages {
+  background-image: url("../img/wood2.png");
+background-size: cover;
+  width: 100%;
+  height: 100%;
 
   text-align: center;
   color: black;
   font-size: 50px;
-  height: 100vh;
+border-top: 10px;
 
 }
 .Pages2 {
 
 }
-.Pages3{
-  background: white;
-}
+
+
 .me{
 
   text-align: left;
@@ -58,3 +63,146 @@ button{
 a{
   color: black;
 }
+
+.Sauce{
+  text-align: right;
+  width: 400px;
+
+}
+
+button{
+  text-align: left;
+}
+
+.pig{
+  text-align: left;
+}
+
+.Garlic2{
+  width: 100px;
+}
+.cow{
+  text-align: left;
+}
+
+.pig2{
+  width: 50px;
+}
+
+.Sauce{
+  width: 125px;
+}
+
+p{
+  font-size: 20px;
+}
+
+a{
+  text-align: center;
+}
+
+
+
+.Chicken2{
+  text-align: center;
+}
+.mush{
+  width: 400px;
+}
+
+.Chicken{
+  text-align: right;
+
+}
+
+.Chicken3{
+  text-align: center;
+}
+
+.Chicken4{
+
+}
+
+.james{
+  font-family: "American Typewriter";
+  background-color: white;
+  color: black;
+
+
+}
+
+a{
+  color: black;
+  border-bottom: 10px;
+  font-family: "American Typewriter";
+}
+
+.itl{
+  width: 200px;
+  height: 200px;
+  text-align: left;
+}
+.red{
+  color: red;
+}
+
+.red2{
+  color: red;
+}
+
+.red3{
+  color: red;
+}
+
+.Top{
+  width: 100%;
+  height: 25%;
+}
+.Bot1{
+  width: 100%;
+}
+.see{
+  color: gray;
+}
+.card{
+  color: black;
+  text-align: center;
+  background-color: #FFFFFF;
+  padding: 8px;
+}
+
+.Scott1{
+  width: 300px;
+  height: 200px;
+  text-align: right;
+}
+
+.cow2{
+  text-align:left;
+}
+.aboutus{
+  color: white;
+}
+.Items{
+  color: white;
+}
+.Price{
+  color: red;
+}
+.form{
+  color: #FFFFFF;
+}
+.form2{
+  color: #FFFFFF;
+}
+.form3{
+  color: #FFFFFF;
+}
+.form4{
+  color: #FFFFFF;
+}
+.form5{
+  color: #FFFFFF;
+}
+
+

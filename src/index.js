@@ -7,6 +7,7 @@ import Main from './myApp/00-main'
 import Client from 'aws-appsync'
 import { Rehydrated } from 'aws-appsync-react'
 import { ApolloProvider as Provider} from 'react-apollo'
+import {StripeProvider} from 'react-stripe-elements';
 
 import config from './appsync'
 
@@ -21,9 +22,11 @@ const client = new Client({
 
 const WithProvider = () => (
     <Provider client={client}>
+    <StripeProvider apiKey="pk_test_FZnBzWtsMlBFsdKBrVaznML9">
     <Rehydrated>
         <Main />
     </Rehydrated>
+    </StripeProvider>
     </Provider>
 );
 
